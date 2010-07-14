@@ -1,0 +1,23 @@
+Highly sophisticated to-do list :-). Minor portions of to-do list(part of bigger 
+task) should be tabbed a bit.
+
+X: not done yet
+-: in progress
+J: done
+
+to-do for 0.001
+______________________________
+
+X main menu
+  X options
+    X resolution change
+    X language change
+  X credits
+  X server querry
+X cars
+  X car-like box
+  X handling car by mouse(handling by car-wheel later)
+  X fuel indicator
+X tracks
+  X testing ground
+  X pits
