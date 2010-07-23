@@ -4,6 +4,8 @@ task) should be tabbed a bit.
 X: not done yet
 -: in progress
 J: done
+_ after status sign signs that this item is low priority on to-do list but it 
+would be nice to have
 
 to-do for 0.001
 ______________________________
@@ -13,7 +15,7 @@ X main menu
     X resolution change
     X language change
   X credits
-  X server querry
+  X master server(players connect here)
 X cars
   X car-like box
   X handling car by mouse(handling by car-wheel later)
@@ -21,3 +23,8 @@ X cars
 X tracks
   X testing ground
   X pits
+X_linux version?
+
+0.002
+
+X master server now displays host list(servers created by players)
